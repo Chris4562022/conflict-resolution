@@ -9,7 +9,7 @@ lskdjfsldkjfsdlkj
 
 ## Table-of-Contents
 
-#[Installation]
+# Installation (#installation)
 
 -[Usage Information](#usage)
 
@@ -24,7 +24,7 @@ lskdjfsldkjfsdlkj
 
 #Installation Requirements for project:
 
-## [lskdjflksdjflksdjf](#table-of-contents)
+## [lskdjflksdjflksdjf](#installation)
 
 #Usage Information for this project:
 
