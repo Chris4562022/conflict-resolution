@@ -1,48 +1,50 @@
 
 
-*Chris is Cool
+**hahahaah**
 
  
-**THis is a project about how Chris is so Cool
+hahahahaha
+
+----------------------------------
 
 **Table of Contents
 
--[Installation]
+-#Installation
 
--[Usage Information]
+-#Usage Information
 
--[License Information]
+-#License Information
 
--[Testing Instructions]
+-#Testing Instructions
 
--[Contribute]
+-#Contribute
 
--[Questions]
+-#Questions
 
 
-##Installation Requirements for project:
+**Installation Requirements for project:
 
-install and use it
+#hahahahaha
 
-##Usage Information for this project:
+**Usage Information for this project:
 
-it's cool to look up how cool chris is
+#hahahaha
 
-##License Information for this project:
+**License Information for this project:
 
-jQuery,Bootstrap,Node
+#jQuery,Bootstrap,Node
 
-##Contrabution
+**Contrabution
 
-If you'd like to make a contribution to this project, please reach out via email.  Thank you for your interest in this project.
+#If you'd like to make a contribution to this project, please reach out via email.  Thank you for your interest in this project.
 
-##Testing Instructions for this project:
+**Testing Instructions for this project:
 
-test to see if you're cool too!
+#hahahahaah
 
-##Questions
+**Questions
 
-Should you have any questions, please feel free to reach out to me.  I can be reached via email at: williamschris83@gmil.com
+#Should you have any questions, please feel free to reach out to me.  I can be reached via email at: williamschris83@gmail.com
 
 My GitHub profile is: https://github.com/Chris4562022
 
